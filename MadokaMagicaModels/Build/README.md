@@ -5,6 +5,8 @@
 - Place contents in `bepinex/plugins` folder. Ensure that ModelReplacementAPI and MoreSuits are installed.
 
 ## Changelog
+	- v1.0.1
+		- made suits on rack look better
 	- v1.0.0
 		- Release
 		- added Madoka Kaname

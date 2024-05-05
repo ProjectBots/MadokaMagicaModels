@@ -9,7 +9,7 @@ using System.Xml.Linq;
 
 namespace MadokaMagicaModels
 {
-	[BepInPlugin("ProjectBots.MadokaMagicaModels", "MadokaMagicaModels", "1.0.0")]
+	[BepInPlugin("ProjectBots.MadokaMagicaModels", "MadokaMagicaModels", "1.0.1")]
 	[BepInDependency("meow.ModelReplacementAPI", BepInDependency.DependencyFlags.HardDependency)]
 	public class Plugin : BaseUnityPlugin
 	{
